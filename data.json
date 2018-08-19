@@ -1,0 +1,53 @@
+{
+	"basicdetails":{
+		"image":"image1.jpg",
+		"name":"m.tulasi ",
+		"email":"tulasi@gmail.com",
+		"pno":"99999999922",
+		"address":"2-13,guntur(Distric)"
+	},
+	"education":[
+
+            {
+				"course":"b.tech(c.s.e)",
+				"college":"vignan nirula",
+				"percentage":"75%"
+		    },
+			{
+			"course":"intermediate",
+			"college":"sri chaitanya",
+			"percentage":"85%"
+			},
+
+			{
+				"course":"10th",
+				"college":"geethanjali high school",
+				"percentage":"82%"
+			}	],
+	"skills":[
+		{
+			"name":"operatingsystems",
+			"value":"Windows,Linux,MAC"
+
+		},
+		{
+			"name":"programming languages",
+			"values":"C,C++,Java,.Net,Python"
+		}],
+	"carrier":{
+		"ca":"i am using my knowledge and skills to do a project successfully"
+	},
+	"Achivements":[
+	
+				"i got first prize in chess copitation in college.",
+				"2.i got second prize in tech summit in mumbai.",
+				"3.i got first prize in ppt.",
+				"4.i got first prize in shuttle"
+	
+],
+	"Description":{
+		"des":"i agreee  all rules in your company"
+	}
+	
+
+}
